@@ -1,0 +1,9 @@
+* {
+  margin: 5px;
+  padding: 10px;
+  font-family: "Arial";
+}
+
+button {
+    cursor:pointer;
+}
